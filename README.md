@@ -85,7 +85,7 @@ IDE recomendada: **IntelliJ IDEA** ou **VS Code** com extensão para Java.
 
 ### **Passos de Instalação**
 
-```
+
 1. **Clone o repositório**:
 
 > git clone https://github.com/seu-usuario/AcademiaApp.git
@@ -109,5 +109,3 @@ No Vs Code Digite **java -version** & **javac -version**, caso não der erro est
 
 > java Main.AcademiaApp
 
-
-```
