@@ -74,7 +74,7 @@ src/
     ├── Aula.java                  # Classe que representa uma Aula
     ├── Exercicio.java             # Classe que representa um Exercicio
     ├── Frequencia.java            # Classe que representa a Frequencia
-    ├── FuncionárioLimpeza.java    # Classe para o usuário FuncionárioLimpeza
+    ├── FuncionarioLimpeza.java    # Classe para o usuário FuncionárioLimpeza
     ├── Manutencao.java            # Classe que representa uma Manutencao
     ├── Maquina.java               # Classe que representa uma Maquina (aparelho da academia)
     ├── Mensalidade.java           # Classe que representa a Mensalidade
