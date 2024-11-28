@@ -14,8 +14,8 @@ Este repositório contém o código-fonte de um sistema de gerenciamento para um
   - [Funcionário de Limpeza](#funcionário-de-limpeza)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Como Executar](#como-executar)
-  - [Dependências](#dependências)
   - [Passos de Instalação](#passos-de-instalação)
+  - [Dependências](#dependências)
 - [Licença](#licença)
 
 ---
@@ -72,3 +72,42 @@ src/
     ├── Administrador.java     # Classe para o usuário Administrador
     ├── Aluno.java             # Classe para o usuário Aluno
     ├── Aula.java              # Classe que representa uma Aula
+    ├── Aula.java              # Classe que representa uma Aula
+    ├── Aula.java              # Classe que representa uma Aula
+```
+
+## **Como Executar**
+
+### **Dependências**
+
+**Java 17 ou superior**.
+IDE recomendada: **IntelliJ IDEA** ou **VS Code** com extensão para Java.
+
+### **Passos de Instalação**
+
+```
+1. **Clone o repositório**:
+
+> git clone https://github.com/seu-usuario/AcademiaApp.git
+
+*Importe o projeto para sua IDE preferida*
+
+2. **Configure o JDK**:
+
+Certifique-se de que o JDK 17 ou superior está configurado corretamente na IDE.
+No Vs Code Digite **java -version** & **javac -version**, caso não der erro está correto.
+
+3. **Abra a pasta do projeto na sua IDE**
+
+4. **Compile o projeto**:
+
+> javac model/*.java main/AcademiaApp.java
+
+*(Isso no Vs Code)*
+
+5. **Execute o projeto
+
+> java Main.AcademiaApp
+
+
+```
