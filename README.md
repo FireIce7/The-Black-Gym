@@ -67,13 +67,21 @@ O **AcademiaApp** é um aplicativo de console que simula o funcionamento de uma 
 ```plaintext
 src/
 ├── main/
-│   └── AcademiaApp.java       # Classe principal que inicia o aplicativo
+│   └── AcademiaApp.java           # Classe principal que inicia o aplicativo
 └── model/
-    ├── Administrador.java     # Classe para o usuário Administrador
-    ├── Aluno.java             # Classe para o usuário Aluno
-    ├── Aula.java              # Classe que representa uma Aula
-    ├── Aula.java              # Classe que representa uma Aula
-    ├── Aula.java              # Classe que representa uma Aula
+    ├── Administrador.java         # Classe para o usuário Administrador
+    ├── Aluno.java                 # Classe para o usuário Aluno
+    ├── Aula.java                  # Classe que representa uma Aula
+    ├── Exercicio.java             # Classe que representa um Exercicio
+    ├── Frequencia.java            # Classe que representa a Frequencia
+    ├── FuncionárioLimpeza.java    # Classe para o usuário FuncionárioLimpeza
+    ├── Manutencao.java            # Classe que representa uma Manutencao
+    ├── Maquina.java               # Classe que representa uma Maquina (aparelho da academia)
+    ├── Mensalidade.java           # Classe que representa a Mensalidade
+    ├── Professor.java             # Classe para o usuário Professor
+    ├── Recepcionista.java         # Classe para o usuário Recepcionista
+    ├── Treino.java                # Classe que representa um Treino
+    ├── Usuario.java               # Classe base para todos os demais usuários
 ```
 
 ## **Como Executar**
