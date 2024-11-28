@@ -105,7 +105,7 @@ No Vs Code Digite **java -version** & **javac -version**, caso não der erro est
 
 *(Isso no Vs Code)*
 
-5. **Execute o projeto
+5. **Execute o projeto**
 
 > java Main.AcademiaApp
 
