@@ -16,7 +16,6 @@ Este repositório contém o código-fonte de um sistema de gerenciamento para um
 - [Como Executar](#como-executar)
   - [Passos de Instalação](#passos-de-instalação)
   - [Dependências](#dependências)
-- [Licença](#licença)
 
 ---
 
